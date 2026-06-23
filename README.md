@@ -26,14 +26,6 @@ An 8-bit Successive Approximation Register (SAR) ADC designed and verified using
 | THD | -56.2 dB |
 | ENOB | 7.8 bits |
 
-## Repository Layout
-```
-docs/
-xschem/
-spice/
-images/
-scripts/
-```
 
 ## Getting Started
 Open the schematic files in Xschem and run the supplied ngspice simulations.
