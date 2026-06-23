@@ -31,4 +31,4 @@ An 8-bit Successive Approximation Register (SAR) ADC designed and verified using
 Open the schematic files in Xschem and run the supplied ngspice simulations.
 
 ## Author
-Abdullah Ibrahim
+Abdullah Afifi
